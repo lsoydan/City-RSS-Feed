@@ -1,5 +1,31 @@
 [
   {
+    "url": "https://www.facebook.com/reel/2059382754669297/",
+    "image": null,
+    "content_text": "Our Swiftwater Rescue Team trains year-round, honing the skills needed to operate safely in dangerous environments. Every scenario, every drill, and every repetition prepares these firefighters for the day someone needs them most. Here\u2019s an inside look at recent training on the Ocoee!",
+    "department": "Fire",
+    "is_event": false,
+    "date_published": "Fri, 07 Aug 2026 13:04:54 GMT",
+    "authors": [
+      {
+        "name": "Fire Department"
+      }
+    ]
+  },
+  {
+    "url": "https://m.facebook.com/CityCouncilChattanooga/posts/pfbid024iXCJd42tsWva387yUHFN4aTCCqMimRxoSMZNKQBi66cZpey7m1fkaVA2amoUekal",
+    "image": "https://ipxy.io/img/eyJpdiI6ImRmODI1YzQ3MTI4YmViZTcxZDlhZGNkYTdmNzljZTA5IiwiZW5jcnlwdGVkRGF0YSI6IjVmMjE5MGQ4ZDJmMzljODQzZjE0YmI2ZjIzNzk0YTRiNmE5NTBkZDBhN2E5MWY5MmU5NWZkNzdmYjA2ODhjNDkwNDdkMjA0NzgxNmFiMDUxNGVkNjExOWUwZWQxYmEzNmZhMWRiNzkyNjk0ZjBiNGE2OWJjYzlmZGRiMDQ5MGVlZTc4MTc5M2M5YWVkMjA4ZTU1ZmJkMDhiZDY1ZWM0MDM4ZWZhMWJjZWM0NzhjMDUxMDE5ZDkwOTM4NTg3MDQzNmJmZmQ1MWM2MzY1NDQ3Mjk0YjU1OTUwMDIwMmIzZWQ0MDBkYWNiNGY3N2JkOTJjOGU2OTY1YzdhNDMzYTk1YWQwMGJhNzNmMTI3Nzk0NTNjZGFmMThkYzZiMjAxNWJlMWJlYjE0NzljMDkyMmNmZDdjMWI3ZTAzM2NkMGY4ZWNhZGM4ZjE1ZjhlNDFjMWEzMjBmODg4M2NlNzkwNGIzN2FmZWVjNDIwZjJiZDlhOWMyNzhkZGEzZDE4MTNkNjdkYjM1ZGRlMmZkMDYzMjczMzdkZWI0YjcyYmJlMzAwODI2MTkzMmQ3M2JhZTFmYzdmNTQxMTg2M2VmNTYzMmUwYTZiYmI3NjM5MGMxNjMyNTMwMjVjNjVjZTk4ZDg4NzI0MDMxNzg5ODczZTg4MzM0YTVlNDM0ODYzZGU3Y2Q4MGUwZGUyNjMzMWJjZDdkZGQ4YjI2MWI4MTFmMjY3MmEyNGIxNzQ1MzA0NDcxMmEzZWI5NTY2N2NkNWM4YWE2YTljOTZmYzlmZTM5ZjMyMzBhMDIxOGYxYTM0OTlhZTVjNDRiZjc0ODI1NzNiN2ZkM2Q2NDI5NDVmYzc4M2FmMWJmMTYzZWFiZjRiMDRlNTQ5MTU4MzExNDY5YzU0ODdkYjk2NTA4ZDk2ZTRjNzRhOTEyZTY0M2E2MTBjMDZiNzg1OTYxMWFkNzBiN2IyYWUxOWY4OWU2OTM4ODU5ZDVhMzcwMmU5OGQ4Yzg3YTQ4MjI0ZWM0ZDgwNGE5ZTlmNmQ2NWE1ZGZjYjUxY2I5OTRjOGQwNWJiNDAwZWU3NzFjNTlkZTI5MWY5ZTg0NDZjODVkMGE0NTE3YmUxZjg0NWRkNjExNTgiLCJhcnRpY2xlSWQiOiIwZjhkZmMwOWRlMTM1YmMxNzU3MTQ0ZmFlODY2M2Q1MyJ9",
+    "content_text": "The City Council's business & committee schedule for next Tuesday, August 11th, may be viewed below:",
+    "department": "City Council",
+    "is_event": true,
+    "date_published": "Fri, 07 Aug 2026 12:19:37 GMT",
+    "authors": [
+      {
+        "name": "City Council"
+      }
+    ]
+  },
+  {
     "url": "https://chattanooga.gov/things-to-do/calendar/downtown-kayak",
     "image": "https://chattanooga.gov/sites/default/files/2024-10/CHA_FB_Preview_1200x630.png",
     "content_text": "Join Outdoor Chattanooga for a beginner-friendly kayak adventure on the Tennessee River through the heart of downtown Chattanooga! Our experienced guides will provide basic paddling instruction and an introduction to moving water safety before leading a relaxed, scenic tour. Paddle upstream and take in unique perspectives of local landmarks, including Maclellan Island Wildlife Sanctuary, the Bluff View Arts District, Ross\u2019s Landing, and Chattanooga\u2019s historic bridges.",
@@ -3870,32 +3896,6 @@
     "authors": [
       {
         "name": "Parks and Outdoors"
-      }
-    ]
-  },
-  {
-    "url": "https://www.facebook.com/reel/1294020232568798/",
-    "image": "https://ipxy.io/img/eyJpdiI6ImEzYjRmOGI1OTRiZjYwMmFmMjBiY2MzYTkwODhjMWY3IiwiZW5jcnlwdGVkRGF0YSI6IjNmMmU0NzZhZjFlNzk4NjRjMWUyNTg3Zjg1ZjU0ZmYzMzk4OGI0YWVmZWVmNzU1NjJmYzljMzI3NzhlNjE1ZjJlM2I4YzQ0NDY2N2VlZDhiYWJhMmNmOTJhNTNmZjdiZDUwY2Y1YmIxOTYxYTZkYzY1NjlhY2M0ODg4YmE3NGYwYzhmOTA3OWQxNWFhNDZmNzdhZmFiNWQzOTlhZjBmZjBkODFhOTJhMWMyY2NlMzRkNjE3Mjg3M2JmMzc5MTRjNTJjZDMzNzRiN2I4NDAyZTJmNWQ1N2Q1ODdhOThmODAwM2M3YTQ1MmUxNjRiN2IxOWZmODFkZWZkYzgxNGQzZjhjMjg4MGFhNGM0MTViZmFkYTYxYmFiMmI4OTI2MzBjOWI1YjI0MWM2YjFmYWNhYjA3MzhhNTljZTZlZDg2ZDU5ZDNlZWUyZDU0OTk2YTRmMjIyN2FhNTk2YjQyMGJmNGM2Nzk1YzMxYzA0Y2EyZWI1MTcwN2NjZDMzNjgxZjA0NDA2NjcyMGFkOTRmM2E0Yjg0YmY1MWRjYzE5MzZmMjEyNGMyZDY4YjQzNzM1ZWJkZTI4ODY1OWRmM2YwNWI2YjcxYzcwZTI3NjYwNjgyMWRmNzYwZjFiYTY0NTkxYmI3N2Q0YTY5ZWUxMWI4NWY3NDRhNDA3ODUwZGFiZDY1NzVlYmMzMGI0ZDNkMzVlNTBiMTc4ZWQ0ZjVkMGQzOTViZDk0NDE5OTRmYzE2OGNhNmYyY2ZkYWYxODQ1ODhkNGU0MGQwZTM5NTM4YjcxMzIyMTU1OTgzNDBkMDBhZmRmNWU2ZjA1MTBkZjUzOWU4MGNhZDM1Yjk4YmIxNzg0ZGU3Y2ZlYjBiMGQ0M2JmZmU4MGUwNzA5MDY3OTY4YjI4NzgzODZkNWVhMjY0NGRlNGZiOWI2OTZmMWExZWY5NmZiYTcyZjI3ZmQ5YjY0YThkZGQ2ZTY0ZTdlNjJmZTkyNzY5MTEwZTI2YWY2MmFjZjkyNGJhN2UxZjcyZTY1ZDI2N2U1Njg4OGViMzFjMTE3Y2M2YmFjNjgxNzlkN2JhNDNjMjcyYWMxMjA5ZTU0MmYzOGMzMGI1OTZlNjY2YWM0M2JlOWNmNzU2MzRhNDBkOGJlNDExNjQ0ODgyYWIzNzI3Y2FlYyIsImFydGljbGVJZCI6ImYwZjFkZmNiNDQ0Mzg3MWUyNjliNmU4NmU3NjMwZDA3In0=",
-    "content_text": "Join us Tuesday, July 21st 2:30-3:30pm at the Downtown Library for a player meet and greet with the Chattanooga Red Wolves.",
-    "department": "Library",
-    "is_event": true,
-    "date_published": "Thu, 16 Jul 2026 22:34:28 GMT",
-    "authors": [
-      {
-        "name": "Public Library"
-      }
-    ]
-  },
-  {
-    "url": "https://m.facebook.com/ChattanoogaCommunityDevelopment/posts/pfbid02caZbwamTG2fg19j1RRp4ceVvKjQw1oaqNhBD7BqvtPfasiscnXqRSkaqnBmiyxaUl",
-    "image": "https://ipxy.io/img/eyJpdiI6ImNiNzljMmExZGZjNmM1NjJlYTlkZDExYTM2YjU0N2NmIiwiZW5jcnlwdGVkRGF0YSI6IjNkZTk5ZTFhZDg5Yzc3Zjk3OGY2NDQ4YWVhNjc1ZmQwZTIwNTE5YzEwZDU5OTU0OTNjNjNhZWNhNzM2ZWYyYWE1MjEzODkwMGU5OWQyMWUyNzcxNzQyMjQ3ZWQxYjMyM2JjMjAzZjI2NzQxOTk4YzNhYjk0NjU2YjNmZjRhMjY4YjMxZDA2ZmNjNjg3ZGViOGZmZWVmOWYzMWJiNTgxZWVjZjY2Zjc5YTIxYTBhMTJiYmZiNjU0ZTAxMjU2OGMwN2JiNzA1NjdjODc5OWU5YzM3MjQ3NWQ4YTcwZDU3OWRlNTk1ODMyODg2Yjk0ZDY5ZmM4ZjAwYzE1M2MwMzAxNDBlNWQzMDQ4Y2E0MTk2YjUwODExZWNmMzlkNTYxOTkwMDczNDkzMWNlZTdkNzlhOTQwZGJmMTRhNTVmYmUxYWNlZDI2NTRmZmE1ZGE5NGM3YjA2YTdjZGIyNGI4ZDZkMWIyZjgxZTc0NDBkZGIzZDZhYmY3MTcyZmE2MjFjNTczM2E5YjNiZWUxYjM1ZDAxNDBlYTE1MDRjZDcyNjM5ZTMyMjUyZmMwZmUzMDlmODMwZGMxZWVkZDJkNzgxM2U5MjdlN2VkNzJlM2QzODYwN2MxYzk3Y2MyNjdiNDY5NTg1MmNlOTEzYWE1ZTIyOTFmMzQwN2VhMTcyYTRlYzk3ZDMyZjEzMWE2ZDg1ZGIzNDUwZjgwM2NjNjkyNGQzNWI5YmE3ZTUzN2ZhYmM0NDc5ODJlMDMyZGQ1Nzc5ODQ2ZGJlMGUxYmJkNGM0MDlkN2Q5YzA5ZWIwOTAzODEzZDIyZGUyZGMzNDJlZGZhNDE0ODAyYzExOTc2Njg0OWUxNGZlOWI2ZjE5YjRlMTI0ODdmYTc4MGZmODBhMGY2NmRlNTEyMTkzNWIwNmE3ZGQwOGQzNzkyMmFjZDBjZjdlNzk0ZTM5OGRmNWUxYjQ1YjVkZTZhMTkwYzUwOTY4ZGNhZTA4ZTViYTU1NmM5YzM5YjY0MTM1MTZlMzQyYjc2NTYwNGI4ODU3Mjg5Nzg4MGVkYWM2ZTlmMDMxNWVmMTRhMDRiNDhiNDA0ZWQzNjZhYzg5NjM0YWY4MDE3YjJhM2EyODkxNjIiLCJhcnRpY2xlSWQiOiI0ODY5ZWZjNzNhNTlhMmM1NWJjOTEzYzc4YjI2OTU2YSJ9",
-    "content_text": "Chattanooga\u2019s First Community Resource Hub Is Opening! The City of Chattanooga Department of Community Development invites you to celebrate the grand opening of the East Lake Community Resource Hub, the first of six neighborhood-based hubs planned across Chattanooga! \ud83d\udcc5 Monday, July 27, 2026 \ud83c\udf80 Ribbon Cutting: 2:30 p.m. \ud83c\udf89 Community Celebration: 3:00\u20136:00 p.m. \ud83d\udccd East Lake Community Center (3601 Dodds Avenue, Chattanooga, TN 37407) \ud83c\udf9f\ufe0fFree and open to the public The East Lake Community Resource Hub will serve as a welcoming, one-stop destination where residents and families can connect with: \u2705 Health and wellness services \u2705 Educational resources \u2705 Workforce development opportunities \u2705 Family support programs \u2705 Financial and community assistance \u2705 City services and other valuable resources \ud83d\udce7 CRH@chattanooga.gov \ud83d\udcf1 Text \u201cResource\u201d to 423-643-7300 \ud83c\udf10 https://cha.city/resource",
-    "department": "Community Development",
-    "is_event": true,
-    "date_published": "Fri, 17 Jul 2026 00:17:42 GMT",
-    "authors": [
-      {
-        "name": "Community Development Department"
       }
     ]
   }
