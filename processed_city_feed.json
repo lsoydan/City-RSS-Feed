@@ -1,5 +1,57 @@
 [
   {
+    "url": "https://chattanooga.gov/things-to-do/calendar/zoo-visit-northgate-library",
+    "image": "https://chattanooga.gov/sites/default/files/2024-10/CHA_FB_Preview_1200x630.png",
+    "content_text": "The Chattanooga Zoo is bringing three animal ambassadors to the Northgate Library for a special meet-and-greet! Join us to learn about their unique characteristics and vital conservation stories.",
+    "department": "Events",
+    "is_event": true,
+    "date_published": "Sat, 22 Aug 2026 00:00:00 GMT",
+    "authors": [
+      {
+        "name": "City of Chattanooga Events"
+      }
+    ]
+  },
+  {
+    "url": "https://chattanooga.gov/things-to-do/calendar/chattanooga-paddle-parade-2026",
+    "image": "https://chattanooga.gov/sites/default/files/2024-10/CHA_FB_Preview_1200x630.png",
+    "content_text": "[et_pb_row admin_label=\u201drow\u201d] [et_pb_column type=\u201d4_4\u2033][et_pb_text admin_label=\u201dText\u201d] Chattanooga Paddle Parade 2026 Join us for a fun, organized, people-powered paddle through the heart of downtown Chattanooga! Whether you\u2019re a first-time paddler or a seasoned river enthusiast, come make a splash.",
+    "department": "Events",
+    "is_event": true,
+    "date_published": "Sat, 22 Aug 2026 00:00:00 GMT",
+    "authors": [
+      {
+        "name": "City of Chattanooga Events"
+      }
+    ]
+  },
+  {
+    "url": "https://chattanooga.gov/things-to-do/calendar/cromwell-community-center-daily-programs",
+    "image": "https://chattanooga.gov/sites/default/files/2024-10/CHA_FB_Preview_1200x630.png",
+    "content_text": "Click here to access our program calendar!",
+    "department": "Events",
+    "is_event": false,
+    "date_published": "Fri, 21 Aug 2026 12:00:00 GMT",
+    "authors": [
+      {
+        "name": "City of Chattanooga Events"
+      }
+    ]
+  },
+  {
+    "url": "https://chattanooga.gov/things-to-do/calendar/east-chattanooga-community-center-daily-programs",
+    "image": "https://chattanooga.gov/sites/default/files/2024-10/CHA_FB_Preview_1200x630.png",
+    "content_text": "Click here to access our program calendar!",
+    "department": "Events",
+    "is_event": false,
+    "date_published": "Fri, 14 Aug 2026 12:00:00 GMT",
+    "authors": [
+      {
+        "name": "City of Chattanooga Events"
+      }
+    ]
+  },
+  {
     "url": "https://m.facebook.com/CityCouncilChattanooga/posts/pfbid031zihx1iSvPpz4dwUpz8r9X2FNAjX1YFMyYint3nQ7KUAXxnK5i4MVyXVnMLXdnEol",
     "image": null,
     "content_text": "The City Council business agenda for next Tuesday, August 25, 2026, is available now:",
@@ -3844,58 +3896,6 @@
     "authors": [
       {
         "name": "Fire Department"
-      }
-    ]
-  },
-  {
-    "url": "https://m.facebook.com/ChattanoogaCommunityDevelopment/posts/pfbid0XmRuMnSP3x7PSre1Rky7L8dLie4Bhm2DfYdbr8t19ncCD88b8kqRwwkrAYGqkPbTl",
-    "image": "https://ipxy.io/img/eyJpdiI6IjQwNGVjODM4NWI4NzUyNjhlOGRkYjhhNWRiMzBmMDM3IiwiZW5jcnlwdGVkRGF0YSI6IjQ4NjFjNzE3Yzg4ODNlOGYyMWEyYTMzMGI4MjUzZTZiN2YwZmY5ZjBkMzRlOTZiYjFjZjMzYjMzMzdlODgwOGRhNGM5MDYyMjdkMjM1N2I1NzdiMDBiNWM2ZWMyNDJkNmRkMzAwNDRmYzE5MDUzY2Y1NjNjZTE5ZjFmYjNkNzQ0NjE5ODNhNmEzNWQwOTVkMGJmMTJhNWRjMGMyMjlhMTg2YjJiMzc3NzNlNDlhNTk3NTlmZTAyOTc3YWMzYzc3YmU0ZDIxZjAzYzNjYjk5ZDQ1ZmY3ZGFjNDNlZmU4MGQwYzJjZTJiNTVlMWRkZDA3ZjBlZmMyYWYwNjk1MWY5MmY5MDk1Zjc3MDcwMzM4NDk2NmIwMGM1ODQ1YTM4NTFmZDQ0MzVhNjU3YmViNTYwYWQxMDVhMzk1NzVjOGU5ZTM3NTA3YzU5MmNlMDYzMGZkZGYxN2YzZjIzZTc5MWFmNzJmYzA3YjAzNzM0ZGI0NGEzZDY5MjU4OGQ5MGVhMWExZTU0ODIyNWVjZjVhN2E1ODMxYWVmM2M2OGMwYzkyY2RlODQ1Y2U5MDM0MjRkYzM5OGQ2Mzk3OWY4Y2JlM2I2YTE1YzllNGE2MTI3NTMwNWJjMmJhNWZkYTUzZWVkN2Q2YWFkMWViMzA3MTI0MzIxMDljMjM3NzUzZDAyZGE0NThiODAyZmE4ODViNzRiOTNhYWM5NGNhMTMzNGU4ZmQxNzJhYTM2Mjc3NmNjMDgzMWUyMjU4MmJjM2QxNjRlZmNlMjYzMWZhYWRjZDJlZWU4ZjZiMzE2MTU0NDZiODcyZjdiZmQyOGRkZWM2NWM2ZDhmNjg2Mzk1OTQ3YTYxNGQ0ZTQ5MmY4YzFjZjQ5YjU0OGQ2MzEyZDU0YzViZTJhOWViY2I2MDkwNmM5ZDk5ZGZjMmYyZTEwM2QwZjQyYWIyNGQ5YWVmYmQyOTk0YjNiYjlhNDA1MWI3NTRkZDIzZWU0OGQ5OTA0OWVhYzZkNDA4MzQ3NjM4NTZmN2MzZTA1OGNmNmI2NGZkN2Q2YzNlNjhkMWU5ZmRiYWRmYmUzZDgyOTNmYjZlNzRhZmE2MzlmMDkyMTEzZGU4ZWQ2YzM4NzQ5NTAiLCJhcnRpY2xlSWQiOiIzY2Q3OTNlNGJhNzhhYzQwNGRmMjMyZDU0OGFkZDNlYiJ9",
-    "content_text": "ICYMI: We are still reminiscing on our summer camp fun!  Shepherd Community Center campers took a trip downtown to see the Chattanooga Ducks and the Southern Belle!",
-    "department": "Community Development",
-    "is_event": false,
-    "date_published": "Thu, 30 Jul 2026 14:00:03 GMT",
-    "authors": [
-      {
-        "name": "Community Development Department"
-      }
-    ]
-  },
-  {
-    "url": "https://m.facebook.com/CHAParksDept/posts/pfbid0BKBwuAsHFy4AXoFQYvKC9d514kydK2ippshkgvbHDomhoATjQXop11mVY5ivGArhl",
-    "image": "https://ipxy.io/img/eyJpdiI6ImEzZGEzMzFmNDgyN2Y3Y2U3MjgzZmIwMGFmODNlMzYwIiwiZW5jcnlwdGVkRGF0YSI6ImYxZDJlZTQwOGI4M2YzZmMwOGMyOGY3YjNhYTJmMGY4NDEyZDQyNmViMjgxNzA5ODg5MTM4Y2ZhNWJmYjdiZmRlYjRiMTU5ZDhmMDk4YzJlNDc0YTdmYTU2NTVjNzk2NWFkOGQzN2YwMWYwYjQ5MTU5YjU5MWM3ODdlMTYxYjMwODI5ZDRlZDgyYTU4YTUwMGExYzdkYWE3NTU3MzMyOWI0YmMxMDQwMWM3ZWFkNGFiZmY4OGU5ZDM4ZGNhN2JmODZiNWFiYmZhMTRiMzhjNzE3YzdlMTRkMTQyN2ZhMzE5MzY5ZTU0ZGNiMDNlOTQ2ZGVlOTA1MGE5ODFhZDY4ZWU1YTE4NDY0M2FiZTE2Yzg3NWJlYTg0ODEwYzc2NDI4MzI4ZWNhOWY0Yjc1NWEzZDUyMDgwOTgwZjJlNTZlMzZmMGI1OGNlOTVkNjVkNzgxMjRmZjY3ZjE5NGM5OGI4MjI0OTUzYjk1ZTI3OTVkODFjNzNhZWU2OTU0OWQzOGEwZGYyN2YxMmEyMGQ2ZTgzOGU0NTM3YzFjNzVhMmM4ZTc4NmQ1MWQ3ZjI0ZDE0ODFlMGUzYzU3YmM2ZTZkYTY4MmU0OWMzMTk4YmU0YTY2MGM3YWUwOTI4MzE1YzY3YWU1Nzg4ZDk4MTNkZWUyYmU0NmFiMjJlNDFjYjQ5MWY1NGMyNWM1MWU3ZTVkMTQ2NTRmMTNkNTQ5MDkxYzEwMzFhZjc4YzViNWY0Yzk3MDFiMzk3MzM1YWFmMDI4MjMwZWRkZTRlMmRlMGE1YzgyOGZmZDk4YmNkMzM5OTIyNGRlOTYwZjdiOTJkODUwNTRiMDBhYjlkMTczYWUyMzExMDkwMGZjYWFiN2QyMzg4NjE5MDVhMGY0YmVhZmJmYzU4Mzk0YzEzNWUwMWQxOWQzNDZmODZiYjI0MzAzMTgxZjk0OWRlYmJiNzEwN2M4NTcxMWU5YWYzN2VlZjQ2MmJkYWNjYjBkN2FhY2I4ODI1ZmE4ZjVhZDJkZGE5ZWEwNDZhNTQ0ZTgwMWU0OWM3MWJhYjBhOTFjNDE2ZjY2OWZlZWM1MGM5ZTU5NjkxY2E3M2E0NmViYTczMmVkZGU4ZTFmOWExN2EyYWM1MDdlZmRjZjIxMDRiYmU5ODQ5MzBiMzRjZjUxMTVlMmRjYzhiOGNiNDAxYjc2NzQ2ZGUwZmM3MjRiNDk2IiwiYXJ0aWNsZUlkIjoiMGY0YTllYTAwNmIzMTliNWU4MzUzOTQyM2JiMzljM2EifQ==",
-    "content_text": "Paving away and fixing roads. \ud83d\udc4f\ud83d\udc4f CHAPublicWorks!",
-    "department": "Parks & Outdoors",
-    "is_event": false,
-    "date_published": "Thu, 30 Jul 2026 00:51:55 GMT",
-    "authors": [
-      {
-        "name": "Parks and Outdoors"
-      }
-    ]
-  },
-  {
-    "url": "https://m.facebook.com/CHAParksDept/posts/pfbid0koVT5cq2KBq9PsAETgxuHJaQXpK94GX8zoyFwV5832fXJk1n2kQD2Jc8QPZQeHJyl",
-    "image": "https://ipxy.io/img/eyJpdiI6ImM0MzM0ODY3NjI1ODYxMmFhMjI3YThjMWU3YjRiNjY5IiwiZW5jcnlwdGVkRGF0YSI6IjllYjliYjRiZWY1NmZmYzE1MmU5OGY2ODg5MDAwZGVjYWViMzRhZjQ2OTIzOTUwMjFmZTQzM2U1MDQxNzYyMDI4ZjY3NjA5YzA2OTQxY2I5OGYzMDViM2RhOTc5ZTA1NjRlYzFmMGYxNzBkMDVmN2U1ZjFkOWE1Nzg3MTQ3OTY5OGY4NGU5MWRlNzEyM2U5NjZmODg0NTQ4N2ZlYjQ5MzQ3ZjZhYjY1NzQ4N2I4Y2IwYzRkNWNiMGJlZjc4MjQ1ZDE2OTM3YzQ3MmNjMDI4ZWRkN2Y5YjhhMjAzYTI5MDI5OGNjYTkyOWIxODNhNDJmYjdhZTc2MjdlYTMzNjI4MTExODIzY2I2MzQyMjQ3NGYyZjYyM2E5ZTY5NWY2MDMwZjBmNjdmN2NhNDJhOTAwYjU1MjMwNmU4NjIzMjQ2NGM2NGI1MTRiZTU3NWI1MWFhY2M4NmJiMDAyNDdjNjFkYTg1OGE4YzJjYWI0ZjM2YjM4OGU2NDQ1ZTViODQwMDNkZTk2MjQ2ZjljOWY0Y2YwZDM2ZDRkOGQ5NmZhOGRmOTVkOTczNzAzMDhjNWYzN2E3MDZkY2ZhYmZlNTdkNjM3MjE5YWQ3Y2UxZjRhNTI1ZjMxMmZjODUwYjU3YzY0MWFhNmRhYTgwNzIyNjZhM2U3ZGQ3NWQ4NDhlZWM3YmJkMWVlYmJkMDMwYTA0MDAwZDVjNjgwOGM0YjJkMGY1ZTg1Y2ZjYWYxZTMzNzhjYWVlNzgxNzgwYTE4NjU1NTM2YTBkNGNiODUwYmMxNmJhNjEwNGQ0NTE3MThlOGU4MTk2MjQxYjk0M2U2M2ZmNzRlNWM2Njc5MzJjZWE0OWYyZjdiMjI0NTA4YzFhOTNjYmE3Yjc5MjgyZGE4ZGQyZmM4Y2UyMzU1ZGE0M2ZhMjhiYjYwNDY3ZDZiNjU4MzBjNmVlZGMxOWM5ZTZlZGU3NjQ5MWUzMDY2YWIwMmUzMzIwMjgwYzViNmI2MzQ0OTk2YzQ5ZDYxZDVlOGRmZTQ2NWMwYmZiOWJiZmRmNmYwNzI0NGMxYWJmNWJlNzUyMzI2OWNlMDY3YjgwNjQ4ZjM2NmVhNGZiMjYzNzNhYWU0ZDEwZWRhNzUiLCJhcnRpY2xlSWQiOiI4NzA2ZjVhNmRmMzQ1OGYzOWZkM2ZhMTI5ODhmYjRkNCJ9",
-    "content_text": "On these hot summer days, we\u2019re reminded just how incredible this team truly is. From caring for our parks, trails, and athletic fields and courts, to leading unforgettable programs, creating adventures for all abilities, and helping protect the places we all love, they work tirelessly behind the scenes to make Chattanooga a better place to live, play, and explore. Their passion, dedication, and hard work make it all possible. This is your Parks & Outdoors Team. Shout out to Chattanooga Lookouts for letting us hang out at Erlanger Park.  @topfans",
-    "department": "Parks & Outdoors",
-    "is_event": false,
-    "date_published": "Wed, 29 Jul 2026 22:56:58 GMT",
-    "authors": [
-      {
-        "name": "Parks and Outdoors"
-      }
-    ]
-  },
-  {
-    "url": "https://m.facebook.com/CHAParksDept/posts/pfbid02xuvsoxPGA1VbLuA8pMT373bWTFyCUMs4H2XUEfGrxAsTFQFckmJaZz99FRjMTLi6l",
-    "image": "https://ipxy.io/img/eyJpdiI6ImM0MzM0ODY3NjI1ODYxMmFhMjI3YThjMWU3YjRiNjY5IiwiZW5jcnlwdGVkRGF0YSI6IjllYjliYjRiZWY1NmZmYzE1MmU5OGY2ODg5MDAwZGVjZmE2MmU4Yjk0ODg2NTAyZjViZDkyY2ZhZWNhY2UyNWU4OGRiOTYyNTAyYTVkZDlmOWYzY2UyOTAxNzI3MTMyYWMxZDFkNjhlZWNiZWUwOWM4NGU2MGIyY2QxN2NkNDVmN2FiZmM1ZTc5NjcyNmMxOWIxNTg1MWZhMjU1NzUzNjA1M2YxOGUyY2VkN2I1ZDQ5N2RkMDEyMTk2ZjUxNDQ0ZDc2ZmYyYWE0Mjk3M2Y1NDYwNmZmMmYyMGI5YTQ2NjQ1YmQ5MWY0ZjYzMmJlMjBjYzQ1OWNlYTJiMTQzN2Q1ODA3ZmRhYzQyMWM4NDYzZjU5NmJlNzdiZDEwZGFhZmY4ODk3YWEzYTllZjQ2MzMwNDZkYWE4NjQwN2QwYTk5MTMyODkxMzg2ZmU5ZTlkZjAxNTk4NTkzY2RjYzQ5Yjc1MGEzZWQ5NWZiZmI0YWIxZDI3ZTE0MzM0ZjZhZjIwY2NlMzIzMzBiMTUzOTdlYmMwZGM5MDZmYTY0ZWYxMjQzYjRiODdiOTYxZGZjZTZmNWNkMzA3MjI5Y2FkMjAzMjQ0MmQ3NGUxZDU3NTY1MWFlODQxMTljNWQ3OWE4ZmJjNDJlMzZjOWM5ZmNkMWJmZGZmYzU2ZjlmZDU1YjFkY2Q1MmI3NTk0Y2JjMGUyNGNiYzc2M2JjZmVhNDc5NjhiOTI1NzJhYTczOTY3MTQzNzIzNzhkMjY1YmYxZjAyYjczMjY1ZTJkNmY0ZmYxZDFlOTRmYmE0ZTlhMDUyZDRhYzI2NjBhZTk0MzRjMzcxNDExNDRkMjNmZDVmMjI0YTI1YTg2M2JlOTQ3ZmZlNmI2NDE3ZTk4YTAxYjRmMmZiNjhlMjM0NGU4MmRjMDhmNmFiNGUyMDkxOTZlNTVjMjY3MDhmM2JmZDc3NmU4MGQ0ZWNkMzEzOGJlMDE4YzEyMGM2YWQwNGVlZTJjMjZlYzA0YTU2N2I3NGZlYzAwYTg2NWMzNzlmNmNiMjFiM2EzZTk2ODgwOTMwZjA2YTc5Y2Q1NWI1ZTBhNjQ5MTA2OTRiY2YxMDkyZjY2NzhmYTJjYjYxZmU2NTYiLCJhcnRpY2xlSWQiOiJhZGMzOGY2YTVmNDljZjYxYjI3YzlmMDQ2MzQ5OGIyZCJ9",
-    "content_text": "The \"Not Your Basic\" Back 2 School Bash is this Sunday 1 - 4 pm at Miller Park!  Join us for an afternoon of family fun as we get ready to head into another awesome school year! Tell your friends and have them tell their friends!",
-    "department": "Parks & Outdoors",
-    "is_event": true,
-    "date_published": "Wed, 29 Jul 2026 21:03:45 GMT",
-    "authors": [
-      {
-        "name": "Parks and Outdoors"
       }
     ]
   }
