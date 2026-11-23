@@ -411,6 +411,7 @@
       font-size: 12px;
       font-weight: 500;
       color: var(--ink-secondary);
+      transition: border-color 0.18s ease, color 0.18s ease;
     }
 
     .meta-item {
@@ -424,6 +425,7 @@
       height: 14px;
       color: var(--bridge-blue);
       flex-shrink: 0;
+      transition: color 0.18s ease;
     }
 
     .card-actions {
@@ -433,6 +435,7 @@
       margin-top: 16px;
       padding-top: 12px;
       border-top: 1px solid var(--border-light);
+      transition: border-color 0.18s ease;
     }
 
     .action-link {
@@ -448,6 +451,7 @@
       border: none;
       padding: 0;
       cursor: pointer;
+      transition: color 0.18s ease;
     }
 
     .action-link:hover {
@@ -475,12 +479,13 @@
       overflow: hidden;
       box-shadow: 0 3px 12px rgba(48, 44, 43, 0.05);
       cursor: pointer;
-      transition: transform 0.18s ease, box-shadow 0.18s ease, background-color 0.18s ease;
+      transition: transform 0.18s ease, box-shadow 0.18s ease, background-color 0.18s ease, border-color 0.18s ease;
     }
 
     .featured-card:hover {
       transform: translateY(-2px);
       background-color: var(--card-hover-fill);
+      border-color: var(--industrial-black);
       box-shadow: 0 10px 24px rgba(0, 67, 96, 0.1);
     }
 
@@ -535,12 +540,13 @@
       display: flex;
       flex-direction: column;
       cursor: pointer;
-      transition: transform 0.18s ease, box-shadow 0.18s ease, background-color 0.18s ease;
+      transition: transform 0.18s ease, box-shadow 0.18s ease, background-color 0.18s ease, border-color 0.18s ease;
     }
 
     .post-card:hover {
       transform: translateY(-3px);
       background-color: var(--card-hover-fill);
+      border-color: var(--industrial-black);
       box-shadow: 0 10px 22px rgba(0, 67, 96, 0.1);
     }
 
@@ -552,11 +558,7 @@
       gap: 8px;
       background-color: var(--pure-white);
       border-bottom: 1px solid var(--border-light);
-      transition: background-color 0.18s ease;
-    }
-
-    .post-card:hover .card-header {
-      background-color: var(--card-hover-fill);
+      transition: background-color 0.18s ease, border-color 0.18s ease;
     }
 
     .card-media-wrapper {
@@ -564,6 +566,7 @@
       background-color: #F1F5F9;
       border-bottom: 1px solid var(--border-light);
       overflow: hidden;
+      transition: border-color 0.18s ease;
     }
 
     .card-media-wrapper.no-image {
@@ -575,6 +578,42 @@
       height: 100%;
       object-fit: cover;
       display: block;
+    }
+
+    /* Accessible High-Contrast Hover States for Card Dividers & Typography */
+    .post-card:hover .card-header {
+      background-color: var(--card-hover-fill);
+      border-bottom-color: var(--industrial-black);
+    }
+
+    .post-card:hover .card-media-wrapper {
+      border-bottom-color: var(--industrial-black);
+    }
+
+    .featured-card:hover .card-meta-row,
+    .featured-card:hover .card-actions,
+    .post-card:hover .card-meta-row,
+    .post-card:hover .card-actions {
+      border-top-color: var(--industrial-black);
+    }
+
+    .featured-card:hover .action-link,
+    .post-card:hover .action-link,
+    .featured-card:hover .meta-item,
+    .post-card:hover .meta-item,
+    .featured-card:hover .meta-item svg,
+    .post-card:hover .meta-item svg,
+    .featured-card:hover .post-date,
+    .post-card:hover .post-date,
+    .featured-card:hover .featured-excerpt,
+    .post-card:hover .card-excerpt {
+      color: var(--industrial-black);
+    }
+
+    .featured-card:hover .action-link:hover,
+    .post-card:hover .action-link:hover {
+      color: var(--industrial-black);
+      text-decoration: underline;
     }
 
     .card-content {
